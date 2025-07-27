@@ -16,7 +16,8 @@
   - Applied reinforcement learning with PyTorch and OpenAI Gym to train a human arm model for a reaching task
   - Enhanced task accuracy by 363% using Natural Policy Gradient
   - Conducted advanced analysis with Joint Principal Component Analysis, showcasing neural relationships
-  - Presented findings at the **27th Annual RaCaS Symposium**
+  - Presented findings at the **27th Annual RaCaS Symposium** and the **28th Annual RaCaS Symposium**
+
 
 - **Research Intern**  
   *University of Colorado Denver*  
