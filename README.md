@@ -1,62 +1,80 @@
- # Hi there, I'm Elyas Larfi! 👋
+# Hi there, I'm Elyas Larfi! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elyas%20Larfi-blue)](https://www.linkedin.com/in/elyaslarfi)
 [![GitHub](https://img.shields.io/badge/GitHub-ElyasYassin-lightgrey)](https://github.com/ElyasYassin)
 [![Email](https://img.shields.io/badge/Email-elyas.larfi@ucdenver.edu-red)](mailto:elyas.larfi@ucdenver.edu)
 
-🎓 **Computer Science Student** at the University of Colorado Denver (Graduating May 2026)  
-💡 **Passionate about AI, Robotics, and Autonomous Systems**
+🎓 **B.S. in Computer Science** (May 2026) & **M.S. in Computer Science** (May 2027)  
+🏫 *University of Colorado Denver*  
+💡 Passionate about **AI, Robotics, Reinforcement Learning, and Autonomous Systems**
 
 ---
 
-## 🔬 Research Experience
+## 💻 Experience
 
-- **Undergraduate Research Assistant**  
-  *University of Colorado Anschutz Medical Campus*  
-  - Applied reinforcement learning with PyTorch and OpenAI Gym to train a human arm model for a reaching task
-  - Enhanced task accuracy by 363% using Natural Policy Gradient
-  - Conducted advanced analysis with Joint Principal Component Analysis, showcasing neural relationships
-  - Presented findings at the **27th Annual RaCaS Symposium** and the **28th Annual RaCaS Symposium**
+### **Software Engineering Intern — Enveda Biosciences**  
+*Boulder, CO | May 2025 – Aug 2025*  
+- Built a **PDF storing and search application** using **OpenSearch** and **React**, saving the company **$9,000 annually**.  
+- Migrated infrastructure from **AWS to Azure**, reducing cloud costs by **60%**.  
+- Deployed **three microservices on Kubernetes** for scalable and efficient resource management.  
+- Converted legacy shell scripts into **Prefect pipelines**, enabling parallel execution and reducing cost by **50%**.  
+- Developed **ETL pipelines in Databricks**, improving data ingestion and transformation performance.
 
+### **Applied ML Intern — University of Colorado Anschutz Medical Campus**  
+*Aurora, CO | Aug 2023 – Present*  
+- Designed **reinforcement learning environments** in **MuJoCo** and **MyoSuite** for simulating human arm reaching tasks.  
+- Engineered custom **reward functions** (distance, velocity profile, smoothness) to achieve human-like motion.  
+- Conducted **neural dynamics analysis (RNN vs. MLP, jPCA, noise robustness)** for research publication.  
+- Automated GPU-based experiments, cutting training time by **40%**.
 
-- **Research Intern**  
-  *University of Colorado Denver*  
-  - Managed 50+ GB of data and created spectrogram plots with MATLAB for precise visualization
-  - Supported three research projects with detailed data analysis using Pandas and Matplotlib
-
----
-
-## 🛠 Projects
-
-- **Daily Scheduler Web Application**  
-  *React, NodeJS, Express, MongoDB, OpenAI*  
-  - Built a personalized scheduler that suggests tasks, boosting productivity by 31%
-  
-- **Adversarial Attack Competition**  
-  *Python, PyTorch, React, PostgreSQL, Docker*  
-  - Won 1st place with a targeted Carlini & Wagner algorithm, achieving robust classifier failure with 0.3159 L2 norm
-  - Presented the solution at CU Denver’s **AI Symposium**
-
-- **Artemis Prime (Autonomous Rover)**  
-  *C++, Arduino, Linux, IoT*  
-  - Developed advanced autonomy features using sensor integration, awarded **Best Advanced Autonomy** at NASA-hosted competition
+### **Data Engineering Intern — University of Colorado Denver**  
+*Denver, CO | May 2023 – Aug 2023*  
+- Processed and cleaned **50+ GB** of experimental data using **MATLAB** and **Python**.  
+- Produced detailed spectrogram plots and statistical analyses supporting **three research projects**.
 
 ---
 
-## 📚 Technical Skills
+## 🤖 Featured Projects
 
-**Languages:** Python, C++, SQL, TypeScript, JavaScript, HTML/CSS, Arduino, MATLAB  
-**Frameworks:** React, Node.js, Flask, PyTorch  
-**Tools:** Git, Docker, VS Code, Yaml, Anaconda  
-**Libraries:** Pandas, NumPy, OpenAI Gym, TensorFlow, Matplotlib  
+### **Robotic Arm Pick-and-Place System**  
+*Python, C/C++, Arduino, Raspberry Pi, OpenCV*  
+- Implemented **motion planning with direct collocation and inverse kinematics** for smooth trajectories.  
+- Built a **closed-loop vision pipeline** (ArUco markers, color detection) for autonomous cube sorting.  
+- Enabled **real-time serial communication** between Raspberry Pi and Arduino for servo control.
+
+### **Image2Poem**  
+*Python, Flask, PyTorch, OpenAI API*  
+- Created a web app that **transforms images into poems** using a fine-tuned **GPT-2 model**.  
+- Integrated **text-to-speech** and a clean web interface for an interactive AI art experience.
+
+### **Adversarial Attack Challenge — 1st Place Winner 🏆**  
+*Python, PyTorch, NumPy*  
+- Developed **white-box adversarial attacks** on a CIFAR-10 classifier with > 99% targeted success under Linf constraints.  
+- Ranked **1st out of 10+ teams**, demonstrating strong applied ML and optimization skills.
 
 ---
 
-## 👥 Extracurriculars
+## ⚙️ Technical Skills
 
-- **Technical Officer** at the AI Student Association (October 2024 – Present)
+**Languages:** Python, C/C++, SQL, TypeScript, JavaScript, HTML/CSS, MATLAB  
+**Frameworks:** FastAPI, Flask, React, Node.js, PyTorch, TensorFlow  
+**Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Git, Prefect, Splunk, OpenSearch, Linux  
+**Libraries & Tools:** NumPy, Pandas, OpenCV, Matplotlib, OpenAI Gym, MuJoCo, Anaconda  
 
 ---
 
-Thanks for visiting my profile! I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out!
+## 🧠 Leadership
 
+### **President — AI Student Association (AISA)**  
+*University of Colorado Denver | Jan 2024 – Present*  
+- Lead a **10+ member officer team** organizing AI-focused workshops, hackathons, and panels reaching **150+ students**.  
+- Oversee partnerships with tech companies and faculty to foster an interdisciplinary AI community on campus.
+
+---
+
+## 🌟 About Me
+
+I’m a **computer scientist and researcher** exploring how intelligence can emerge in physical systems — from **robotic arms** to **neural networks**.  
+I’m driven by the intersection of **AI, control theory, and neuroscience**, and I love building things that move, learn, and adapt.  
+
+Let’s connect and collaborate on cool projects in AI, robotics, or applied ML! 🚀
