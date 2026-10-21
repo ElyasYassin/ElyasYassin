@@ -2,7 +2,7 @@
 
 CS student and researcher interested in **robotics, AI, reinforcement learning, and autonomous systems**.
 
-Previously interned at **Enveda Biosciences**, **CU Anschutz Medical Campus**, and **CU Denver**.
+Previously interned at **Enveda Biosciences**, **Medtronic**, and **CU Anschutz Medical Campus**.
 
 Currently pursuing my **M.S. in Computer Science at CU Denver** and working on robotics/ML research.
 
